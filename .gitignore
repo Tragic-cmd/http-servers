@@ -10,7 +10,7 @@
 
 # Code coverage profiles and other test artifacts
 *.out
-out
+/out
 coverage.html
 coverage.txt
 coverage.xml
